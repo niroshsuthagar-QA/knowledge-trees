@@ -4,20 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "f6e444a9dce343f1",
+        "id": "e12fe60627197258",
         "type": "tabs",
         "children": [
           {
-            "id": "a2a7254f9e6f97ab",
+            "id": "67b078a5a3cd9865",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 448.155467994572,
+                  "y": 129.33788255142872,
+                  "zoom": -0.7834074484105853
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "38068e73c2e5fd50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hyperlinks and Images.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hyperlinks and Images"
+            }
+          },
+          {
+            "id": "c8b39ad4859f20ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning - NOW ML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning - NOW ML"
+            }
+          },
+          {
+            "id": "0e34628ec967f2b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marketing"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hyperlinks and Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Hyperlinks and Images"
             }
           },
           {
@@ -107,11 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hyperlinks and Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Hyperlinks and Images"
             }
           },
           {
@@ -132,9 +184,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Hyperlinks and Images.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Hyperlinks and Images"
             }
           }
         ]
@@ -154,8 +208,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2a7254f9e6f97ab",
+  "active": "38068e73c2e5fd50",
   "lastOpenFiles": [
+    "Pasted image 20250103144903.png",
+    "Untitled.canvas",
+    "Hyperlinks and Images.md",
+    "Untitled 1.canvas",
+    "CoPilot.md",
+    "Machine Learning - NOW ML.md",
+    "Marketing.md",
+    "Algorithms.md",
+    "Python.md",
+    "Big Data.md",
+    "Data, AI & Tech.md",
     "Welcome.md"
   ]
 }
